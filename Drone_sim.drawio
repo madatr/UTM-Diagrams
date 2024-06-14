@@ -1,31 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T07:25:13.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="9DtPubDaFOhSL2hPoeRE" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T08:34:02.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="5VSFFp5he8-NVa7vDmlf" version="24.5.4" type="github">
   <diagram name="Page-1" id="Ev9KHV8LbVD18_9U95kE">
-    <mxGraphModel dx="1578" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1283" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-1" target="Jraj2u1gfLjr0mIL1iTk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-1" target="Jraj2u1gfLjr0mIL1iTk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-1" value="QGC" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="370" y="520" width="218.75" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-22" value="Responsible for planing the mission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-1">
-          <mxGeometry x="-5" y="30" width="210" height="30" as="geometry" />
+          <mxGeometry x="4.380000000000001" y="30" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-23" value="Manual and semi-auto Flights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-1">
-          <mxGeometry x="12.5" y="70" width="180" height="30" as="geometry" />
+          <mxGeometry x="19.38" y="70" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-24" value="Has simple gui with 2d map&amp;nbsp;&lt;div&gt;and simple&amp;nbsp;&lt;div&gt;object representation&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-1">
-          <mxGeometry x="18.75" y="105" width="170" height="60" as="geometry" />
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-24" value="Has simple GUI with a 2D map&amp;nbsp;&lt;div&gt;and simple&amp;nbsp;&lt;div&gt;object representation&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-1">
+          <mxGeometry x="14.379999999999999" y="110" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-5">
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-6">
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-2" value="PX4" style="swimlane;" vertex="1" parent="1">
@@ -33,6 +36,9 @@
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-25" value="Autopilot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-2">
           <mxGeometry x="70" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-47" value="Controls the drone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-2">
+          <mxGeometry x="45" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-5" value="Gazebo" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="1050" y="270" width="320" height="200" as="geometry" />
@@ -56,18 +62,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-8" value="MavProxy Script" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="370" y="270" width="200" height="200" as="geometry" />
+          <mxGeometry x="370" y="270" width="214.38" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-48" value="Responsible for planing the mission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-8">
+          <mxGeometry x="2.1899999999999955" y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-9" value="Unreal Engine" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="520" width="320" height="500" as="geometry" />
+          <mxGeometry x="1050" y="516" width="320" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-6" value="Cesium" style="swimlane;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-9">
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-6" value="Cesium plugin" style="swimlane;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-9">
           <mxGeometry x="20" y="60" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-38" value="Adds support for 3D Geospatial Representation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-6">
-          <mxGeometry y="40" width="280" height="30" as="geometry" />
+          <mxGeometry y="60" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-4" value="Airsim" style="swimlane;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-9">
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-4" value="Airsim plugin" style="swimlane;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-9">
           <mxGeometry x="20" y="290" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-33" value="Vision based simulation for drone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-4">
@@ -92,7 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-11" value="Manual Waypoints" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="60" y="480" width="200" height="80" as="geometry" />
+          <mxGeometry x="60" y="480" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-49" value="Flight plan from manual&amp;nbsp;&lt;div&gt;waypoints on the map&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-11">
+          <mxGeometry x="25" y="25" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-12" target="Jraj2u1gfLjr0mIL1iTk-1">
           <mxGeometry relative="1" as="geometry">
@@ -105,11 +117,17 @@
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-12" value="Joystick" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="60" y="680" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-51" value="Control the drone using a Joystick" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-12">
+          <mxGeometry y="30" width="200" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-14" target="Jraj2u1gfLjr0mIL1iTk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-14" value="Presets" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="60" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-50" value="Preset sample flights" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-14">
+          <mxGeometry x="35" y="35" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-41">
           <mxGeometry relative="1" as="geometry">
@@ -117,10 +135,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-41" value="MavSDK" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="525" y="770" width="218.75" height="200" as="geometry" />
+          <mxGeometry x="525" y="770" width="218.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Jraj2u1gfLjr0mIL1iTk-42" value="Responsible for planing the mission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-41">
-          <mxGeometry x="4.380000000000001" y="30" width="210" height="30" as="geometry" />
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-42" value="Communication protocol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-41">
+          <mxGeometry x="34.38" y="30" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
