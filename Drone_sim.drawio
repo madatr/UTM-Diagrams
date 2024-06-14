@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T07:20:24.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="fZKZvwODeziFAqwjBBCF" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T07:25:13.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" etag="9DtPubDaFOhSL2hPoeRE" version="24.5.4" type="github">
   <diagram name="Page-1" id="Ev9KHV8LbVD18_9U95kE">
     <mxGraphModel dx="1578" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -110,6 +110,17 @@
         </mxCell>
         <mxCell id="Jraj2u1gfLjr0mIL1iTk-14" value="Presets" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="60" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jraj2u1gfLjr0mIL1iTk-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634.6923076923076" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-41" value="MavSDK" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="525" y="770" width="218.75" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-42" value="Responsible for planing the mission" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jraj2u1gfLjr0mIL1iTk-41">
+          <mxGeometry x="4.380000000000001" y="30" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
