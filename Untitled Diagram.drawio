@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T05:35:54.263Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.3" etag="l3bz7KMN_EMt25KJaTeU" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T06:17:00.760Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tOxs7SwVVt3gRC0akO6Z" version="24.6.3" type="github">
   <diagram name="Page-1" id="IrvR38SEUqUFVCTSY1GX">
-    <mxGraphModel>
+    <mxGraphModel dx="2004" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QlxMsgGK2YvB83sWniOT-5" value="" style="group;strokeColor=#007FFF;fontStyle=0;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="850" y="290" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-8" value="" style="group;strokeColor=#007FFF;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1050" y="610" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-11" value="" style="group;strokeColor=#007FFF;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="370" y="890" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-14" value="" style="group;strokeColor=#007FFF;fontStyle=0;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1530" y="110" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="530" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-3" value="Flight Blender (backend)" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="560.7142857142858" y="160" width="189.28571428571428" height="27.27272727272727" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-17" value="u" style="group;strokeColor=#007FFF;fontStyle=4;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="550" width="500" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontStyle=4;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="270" y="550" width="500" height="250.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-19" value="Argon Server" style="rounded=0;whiteSpace=wrap;html=1;container=0;fontStyle=4;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="591.4285714285714" y="550" width="178.57142857142858" height="22.72727272727273" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-7" value="Flight Spotlight (frontend)" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="110" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-16" value="QGC Station" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="110" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="610" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-10" value="Flight Passport" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="610" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="370" y="890" width="420" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QlxMsgGK2YvB83sWniOT-13" value="UTM Adapter" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D8C7DB;" vertex="1" parent="1">
+          <mxGeometry x="640" y="890" width="150" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
