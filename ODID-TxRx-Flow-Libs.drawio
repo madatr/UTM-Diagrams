@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-07-12T08:52:42.254Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="J6pRJoisEP075Q21Q99n" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-12T08:53:11.031Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="GsftwYnt_c099uJgevGf" version="24.6.4" type="device">
   <diagram name="Page-1" id="hhMA0dzo9jrocptalhWV">
     <mxGraphModel dx="2004" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         </mxCell>
         <UserObject label="flutter-opendroneid" link="https://github.com/dronetag/flutter-opendroneid" id="jRDQXjSHBK0QOYaojWcN-98">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="800" y="270" width="120" height="40" as="geometry" />
+            <mxGeometry x="800" y="268" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRDQXjSHBK0QOYaojWcN-99" target="jRDQXjSHBK0QOYaojWcN-100">
@@ -216,14 +216,14 @@
           <mxGeometry x="954" y="189" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-102" value="Reads raw WiFi and Bluetooth RID messages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="954" y="265" width="170" height="50" as="geometry" />
+          <mxGeometry x="954" y="263" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRDQXjSHBK0QOYaojWcN-103" target="jRDQXjSHBK0QOYaojWcN-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="dart-opendroneid" link="https://github.com/dronetag/dart-opendroneid" id="jRDQXjSHBK0QOYaojWcN-103">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
-            <mxGeometry x="800" y="325" width="120" height="40" as="geometry" />
+            <mxGeometry x="800" y="323" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="jRDQXjSHBK0QOYaojWcN-107">
@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-104" value="Raw data is parsed to RID messages&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="953" y="320" width="170" height="50" as="geometry" />
+          <mxGeometry x="953" y="318" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jRDQXjSHBK0QOYaojWcN-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRDQXjSHBK0QOYaojWcN-105" target="jRDQXjSHBK0QOYaojWcN-106">
           <mxGeometry relative="1" as="geometry" />
