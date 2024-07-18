@@ -1,0 +1,60 @@
+<mxfile host="Electron" modified="2024-07-18T09:43:53.203Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="XcGrX3Fy7UnKM3CsZqEk" version="24.6.4" type="device">
+  <diagram name="Page-1" id="Ev9KHV8LbVD18_9U95kE">
+    <mxGraphModel dx="2004" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;curved=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JzUydqIJ6qVtRUPiUywM-18" target="Jraj2u1gfLjr0mIL1iTk-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="724.4000000000001" y="1110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="875" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Single Simulated UAV&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#D79B00;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=37;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="490" width="310" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;curved=0;startArrow=classic;startFill=1;" parent="JzUydqIJ6qVtRUPiUywM-14" source="Jraj2u1gfLjr0mIL1iTk-41" target="Jraj2u1gfLjr0mIL1iTk-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-41" value="MAV SDK Server" style="swimlane;fontSize=16;rounded=1;" parent="JzUydqIJ6qVtRUPiUywM-14" vertex="1" collapsed="1">
+          <mxGeometry x="35" y="414.5" width="250" height="30" as="geometry">
+            <mxRectangle x="20" y="289" width="148.75" height="90" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-2" value="PX4" style="swimlane;startSize=23;fontSize=16;rounded=1;" parent="JzUydqIJ6qVtRUPiUywM-14" vertex="1">
+          <mxGeometry x="35" y="263.5" width="250" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-25" value="UAV Autopilot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="Jraj2u1gfLjr0mIL1iTk-2" vertex="1">
+          <mxGeometry x="50" y="32" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-47" value="Controls the UAV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="Jraj2u1gfLjr0mIL1iTk-2" vertex="1">
+          <mxGeometry x="40" y="65" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-5" value="JmavSim / Gazebo" style="swimlane;fontSize=16;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="539" width="250" height="172" as="geometry">
+            <mxRectangle x="1000" y="568" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3D simulation environment&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Jraj2u1gfLjr0mIL1iTk-5" vertex="1">
+          <mxGeometry x="30" y="39" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jraj2u1gfLjr0mIL1iTk-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Provides UAV simulation and physics&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Jraj2u1gfLjr0mIL1iTk-5" vertex="1">
+          <mxGeometry y="78" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Provides &quot;geospatial&quot;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&amp;nbsp;information&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;for PX4&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Jraj2u1gfLjr0mIL1iTk-5" vertex="1">
+          <mxGeometry x="10" y="117" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;startArrow=classic;startFill=1;curved=0;" parent="1" source="Jraj2u1gfLjr0mIL1iTk-2" target="Jraj2u1gfLjr0mIL1iTk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-18" value="&lt;span style=&quot;font-size: 16px; text-wrap: nowrap;&quot;&gt;Programme Controller&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCFFE6;strokeColor=#00994D;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=37;" parent="1" vertex="1">
+          <mxGeometry x="760" y="490" width="230" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
