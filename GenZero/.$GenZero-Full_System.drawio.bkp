@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-29T13:10:11.493Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="mxrZdNUHPtZClxdEgT3T" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-08-01T11:08:14.927Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="6hFzhPRcctOEaG6hc1kU" version="24.6.4" type="device">
   <diagram name="Page-1" id="Ev9KHV8LbVD18_9U95kE">
-    <mxGraphModel dx="557" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2004" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JzUydqIJ6qVtRUPiUywM-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Single Simulated UAV&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#D79B00;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=40;fontSize=20;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="JzUydqIJ6qVtRUPiUywM-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Simulated UAV&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#D79B00;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=40;fontSize=20;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="370" y="450" width="262" height="50" as="geometry">
             <mxRectangle x="358" y="430" width="290" height="90" as="alternateBounds" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n4PZmjlwthrs9iT0Sboe-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Single Observer&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCCCFF;strokeColor=#4C0099;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=37;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="n4PZmjlwthrs9iT0Sboe-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Observer&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#CCCCFF;strokeColor=#4C0099;strokeWidth=4;perimeterSpacing=0;fillStyle=auto;startSize=37;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="713" y="450" width="290" height="220" as="geometry" />
         </mxCell>
         <mxCell id="lRbjT1NGwTPiWCWEcdZG-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=classic;startFill=1;endArrow=classic;curved=0;" parent="n4PZmjlwthrs9iT0Sboe-7" source="Jraj2u1gfLjr0mIL1iTk-41" target="n4PZmjlwthrs9iT0Sboe-11" edge="1">
